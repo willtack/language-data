@@ -1,0 +1,41 @@
+P65
+sentence
+,left,right,LI
+wb,0.48,0.29,0.25
+ba,3.05,1.78,0.26
+sup. TG,0.73,0.29,0.43
+mid. TG,0.37,0.01,0.95
+inf. TG,0.27,0.38,-0.17
+pt,0.43,0.15,0.48
+ag,0.28,0.0,1.0
+ 
+object
+,left,right,LI
+whole brain,0.0,0.0,0.0
+broca's area,0.0,0.0,0.0
+planum temporale,0.0,0.0,0.0
+angular gyrus,0.0,0.0,0.0
+ 
+rhyme
+,left,right,LI
+whole brain,0.58,0.29,0.33
+broca's area,3.76,0.25,0.88
+planum temporale,0.71,0.1,0.75
+angular gyrus,0.63,0.19,0.54
+ 
+wordgen
+,left,right,LI
+whole brain,0.09,0.04,0.38
+broca's area,0.77,0.0,1.0
+sfg,0.69,0.2,0.55
+pt,0.25,0.0,1.0
+ag,0.07,0.0,1.0
+ 
+scenemem
+,left,right,LI
+mTL,0.01,0.02,-0.33
+hippocampus,0.02,0.1,-0.67
+amygdala,0.0,0.0,0.0
+phg,0.06,0.03,0.33
+entorhinal,0.0,0.0,0.0
+ 

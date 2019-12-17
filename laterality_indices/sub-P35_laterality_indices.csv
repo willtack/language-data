@@ -1,0 +1,33 @@
+P35
+sentence
+,left,right,LI
+wb,1.1,0.85,0.13
+ba,4.83,1.66,0.49
+sup. TG,2.51,0.74,0.54
+mid. TG,1.13,0.23,0.66
+inf. TG,0.0,0.0,0.0
+pt,1.19,0.19,0.72
+ag,0.91,0.33,0.47
+ 
+object
+,left,right,LI
+whole brain,1.2,1.03,0.08
+broca's area,3.18,1.27,0.43
+planum temporale,0.38,0.14,0.46
+angular gyrus,0.42,0.29,0.18
+ 
+rhyme
+,left,right,LI
+whole brain,0.08,0.02,0.6
+broca's area,0.22,0.0,1.0
+planum temporale,0.02,0.0,1.0
+angular gyrus,0.0,0.0,0.0
+ 
+wordgen
+,left,right,LI
+whole brain,0.17,0.06,0.48
+broca's area,1.9,0.0,1.0
+sfg,0.39,0.23,0.26
+pt,0.01,0.0,1.0
+ag,0.28,0.0,1.0
+ 

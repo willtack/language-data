@@ -1,0 +1,33 @@
+P71
+sentence
+,left,right,LI
+wb,0.05,0.17,-0.55
+ba,0.22,0.5,-0.39
+sup. TG,0.0,0.0,0.0
+mid. TG,0.0,0.06,-1.0
+inf. TG,0.0,0.0,0.0
+pt,0.0,0.0,0.0
+ag,0.01,0.28,-0.93
+ 
+object
+,left,right,LI
+whole brain,0.0,0.0,0.0
+broca's area,0.0,0.0,0.0
+planum temporale,0.0,0.0,0.0
+angular gyrus,0.0,0.0,0.0
+ 
+rhyme
+,left,right,LI
+whole brain,0.0,0.0,0.0
+broca's area,0.0,0.0,0.0
+planum temporale,0.0,0.0,0.0
+angular gyrus,0.0,0.0,0.0
+ 
+wordgen
+,left,right,LI
+whole brain,0.31,0.42,-0.15
+broca's area,2.54,2.26,0.06
+sfg,0.58,1.07,-0.3
+pt,0.24,0.41,-0.26
+ag,0.55,0.4,0.16
+ 
