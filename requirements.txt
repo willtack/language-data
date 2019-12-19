@@ -18,7 +18,7 @@ CherryPy==3.6.0
 chrome-gnome-shell==0.0.0
 clint==0.3.7
 command-not-found==0.3
-cryptography==2.1.4
+cryptography==2.3
 cupshelpers==1.0
 decorator==4.1.2
 defer==1.0.6
