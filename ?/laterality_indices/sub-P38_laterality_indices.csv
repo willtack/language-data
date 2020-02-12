@@ -1,0 +1,41 @@
+P38
+sentence
+,left,right,LI
+wb,0.03,0.02,0.2
+ba,0.0,0.0,0.0
+sup. TG,0.28,0.0,1.0
+mid. TG,0.04,0.0,1.0
+inf. TG,0.0,0.0,0.0
+pt,0.03,0.0,1.0
+ag,0.0,0.0,0.0
+ 
+object
+,left,right,LI
+whole brain,0.72,0.75,-0.02
+broca's area,0.74,0.15,0.66
+planum temporale,0.01,0.0,1.0
+angular gyrus,0.0,0.0,0.0
+ 
+rhyme
+,left,right,LI
+whole brain,0.08,0.04,0.33
+broca's area,0.35,0.0,1.0
+planum temporale,0.0,0.0,0.0
+angular gyrus,0.0,0.0,0.0
+ 
+wordgen
+,left,right,LI
+whole brain,0.35,0.21,0.25
+broca's area,1.8,0.05,0.95
+sfg,0.32,0.09,0.56
+pt,0.04,0.0,1.0
+ag,0.27,0.0,1.0
+ 
+scenemem
+,left,right,LI
+mTL,1.02,1.27,-0.11
+hippocampus,1.1,1.63,-0.19
+amygdala,0.57,0.64,-0.06
+phg,1.55,1.38,0.06
+entorhinal,0.51,0.38,0.15
+ 

@@ -1,0 +1,33 @@
+P43
+sentence
+,left,right,LI
+wb,1.39,0.76,0.29
+ba,5.63,0.82,0.75
+sup. TG,5.03,1.89,0.45
+mid. TG,4.11,1.78,0.4
+inf. TG,1.68,0.09,0.9
+pt,1.25,0.26,0.66
+ag,3.56,0.29,0.85
+ 
+object
+,left,right,LI
+whole brain,0.31,0.33,-0.03
+broca's area,0.28,0.0,1.0
+planum temporale,0.0,0.0,0.0
+angular gyrus,0.0,0.0,0.0
+ 
+rhyme
+,left,right,LI
+whole brain,0.52,0.18,0.49
+broca's area,2.89,0.17,0.89
+planum temporale,0.57,0.0,1.0
+angular gyrus,0.23,0.0,1.0
+ 
+wordgen
+,left,right,LI
+whole brain,1.75,0.89,0.33
+broca's area,7.62,1.65,0.64
+sfg,3.52,0.63,0.7
+pt,1.54,0.39,0.6
+ag,1.51,0.01,0.99
+ 

@@ -1,0 +1,33 @@
+P40
+sentence
+,left,right,LI
+wb,0.71,0.48,0.19
+ba,3.86,0.43,0.8
+sup. TG,1.4,0.0,1.0
+mid. TG,1.24,0.11,0.84
+inf. TG,0.07,1.17,-0.89
+pt,0.58,0.0,1.0
+ag,0.08,0.0,1.0
+ 
+object
+,left,right,LI
+whole brain,1.11,0.98,0.06
+broca's area,4.67,0.2,0.92
+planum temporale,0.93,0.37,0.43
+angular gyrus,0.02,0.0,1.0
+ 
+rhyme
+,left,right,LI
+whole brain,0.44,0.32,0.16
+broca's area,2.34,1.07,0.37
+planum temporale,0.5,0.01,0.96
+angular gyrus,0.0,0.0,0.0
+ 
+wordgen
+,left,right,LI
+whole brain,0.77,0.58,0.14
+broca's area,4.35,1.74,0.43
+sfg,1.76,1.67,0.03
+pt,0.76,0.01,0.97
+ag,0.09,0.04,0.38
+ 

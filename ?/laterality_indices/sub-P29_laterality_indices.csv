@@ -1,0 +1,33 @@
+P29
+sentence
+,left,right,LI
+wb,0.0,0.0,0.0
+ba,0.0,0.0,0.0
+sup. TG,0.0,0.0,0.0
+mid. TG,0.0,0.0,0.0
+inf. TG,0.0,0.0,0.0
+pt,0.0,0.0,0.0
+ag,0.0,0.0,0.0
+ 
+object
+,left,right,LI
+whole brain,0.45,0.28,0.23
+broca's area,1.95,0.91,0.36
+planum temporale,0.0,0.0,0.0
+angular gyrus,0.03,0.05,-0.25
+ 
+rhyme
+,left,right,LI
+whole brain,0.0,0.0,0.0
+broca's area,0.0,0.0,0.0
+planum temporale,0.0,0.0,0.0
+angular gyrus,0.0,0.0,0.0
+ 
+wordgen
+,left,right,LI
+whole brain,0.34,0.14,0.42
+broca's area,2.98,0.55,0.69
+sfg,0.19,0.01,0.9
+pt,0.3,0.0,1.0
+ag,0.0,0.0,0.0
+ 
